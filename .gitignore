@@ -1,0 +1,20 @@
+# SPIN generated files
+outputs/
+pan
+pan.exe
+pan.c
+pan.h
+pan.b
+pan.m
+pan.p
+pan.t
+_spin_nvr.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
