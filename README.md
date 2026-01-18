@@ -135,10 +135,6 @@ gcc -DMEMLIM=1024 -O2 -DXUSAFE -o pan pan.c
 .
 ├── purification.pml      # Main Promela model
 ├── README.md             # This file
-├── CCS2420_Report.docx   # Detailed project report
-├── safety.txt            # Safety verification output
-├── liveness.txt          # Liveness verification output
-├── spin run.txt          # Simulation trace output
 └── images/
     ├── system-diagram.png
     ├── safety-property-output.png
