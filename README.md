@@ -1,6 +1,6 @@
 # Safe Liquid Purification System
 
-A formally verified model of a computer-controlled liquid purification system using Promela and SPIN.
+A formally verified model of a simple computer-controlled liquid purification system using Promela and SPIN.
 
 ---
 
